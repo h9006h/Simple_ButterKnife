@@ -1,0 +1,5 @@
+include ':butterknife_compiler'
+include ':butterknife_annotation'
+include ':butterknife'
+include ':app'
+rootProject.name = "My ButterKnife"
